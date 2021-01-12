@@ -12,3 +12,13 @@ UI框架：WeUI
 
 # 结果展示
 ![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q1.png)
+
+![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q2.png)
+
+![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q3.png)
+
+![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q4.png)
+
+![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q5.png)
+
+![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/14.png)
