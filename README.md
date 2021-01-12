@@ -11,3 +11,4 @@ UI框架：WeUI
 数据库：MySQL
 
 # 结果展示
+/resultImage/q1
