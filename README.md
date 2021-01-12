@@ -11,4 +11,4 @@ UI框架：WeUI
 数据库：MySQL
 
 # 结果展示
-![Image text]/resultImage/q1.png
+![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q1.png)
