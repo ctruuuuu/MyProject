@@ -11,14 +11,14 @@ UI框架：WeUI
 数据库：MySQL
 
 # 结果展示
-![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q1.png)
+![结果图1](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q1.png)
 
-![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q2.png)
+![结果图2](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q2.png)
 
-![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q3.png)
+![结果图3](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q3.png)
 
-![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q4.png)
+![结果图4](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q4.png)
 
-![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q5.png)
+![结果图5](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/q5.png)
 
-![Image text](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/14.png)
+![结果图6](https://github.com/ctruuuuu/Questionnaire/blob/main/resultImage/14.png)
